@@ -5,7 +5,7 @@ import { Home } from "./pages/home";
 import { Skills } from "./pages/Skills";
 import { Contact } from "./pages/contact";
 import { About } from "./pages/about";
-import "./app.css";
+
 import { Footer } from "./footer";
 function App() {
     // Check stored theme or use light theme by default
